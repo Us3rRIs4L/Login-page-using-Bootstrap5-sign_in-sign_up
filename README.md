@@ -3,6 +3,9 @@
 
 A responsive and modern login page with a sign-up modal. Built using **HTML**, **CSS**, **Bootstrap 5**, and **JavaScript**, this project includes user-friendly features such as password visibility toggle, external sign-in options, and a responsive design for various devices.
 
+![Sign In](images/SignIn.png)
+![Sign Up](images/SignUp.png)
+
 ## Features
 
 - **Login Form**
@@ -52,6 +55,3 @@ project-directory/
 │   ├── search.png
 │   └── apple-logo.png
 └── README.md        # Documentation for the project
-
-![Sign In](images/SignIn.png)
-![Sign Up](images/SignUp.png)
