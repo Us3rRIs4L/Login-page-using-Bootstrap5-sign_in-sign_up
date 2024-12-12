@@ -50,9 +50,7 @@ project-directory/
 │   └── style.css    # Custom CSS file
 ├── js/
 │   └── script.js    # JavaScript file for password visibility toggle
-├── icons/           # Directory for icons used in buttons and password toggle
-│   ├── hidden.png
-│   ├── eye.png
-│   ├── search.png
-│   └── apple-logo.png
+├── images/           # Directory for result 
+│   ├── SignIn.png
+│   └── SignUp.png
 └── README.md        # Documentation for the project
